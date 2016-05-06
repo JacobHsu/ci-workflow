@@ -1,0 +1,26 @@
+{
+  "name": "ci-workflow",
+  "version": "1.0.0",
+  "description": "`$ npm init`\r `$ npm install express --save`",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHsu/ci-workflow.git"
+  },
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/ci-workflow/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/ci-workflow#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
