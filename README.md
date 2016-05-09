@@ -36,5 +36,10 @@ node_modules/
 `$ git push -u origin master`  
 https://github.com/USER_NAME/ci-workflow
 
+
+# [CircleCI](https://circleci.com/)
+`Add Projects` → `Build project`
+
+
 # References
 * https://github.com/amowu/hello-ci-workflow
