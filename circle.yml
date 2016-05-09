@@ -3,6 +3,9 @@ machine:
   node:
     version: 0.10
 
+pre:
+- npm install
+
 test:
   override:
     - ./node_modules/.bin/mocha
